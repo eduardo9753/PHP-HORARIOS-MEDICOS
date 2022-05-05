@@ -28,6 +28,7 @@ class ClassConexion
     PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_NUM,
   ];
 
+  
   //constructor
   public function __construct()
   {

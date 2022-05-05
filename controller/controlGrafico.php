@@ -11,6 +11,7 @@ include_once('data/usuario.php');
 //UITLS
 include_once('utils/modelSession.php');
 
+
 class ControlGrafico
 {
 

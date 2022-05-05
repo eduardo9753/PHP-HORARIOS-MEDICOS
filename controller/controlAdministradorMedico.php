@@ -146,6 +146,7 @@ class ControlEventoAdministradorMedico
         }
     }
 
+
     //REGISTRAR UN NUEVO CONSULTORIO
     public function registrarConsultorio()
     {
@@ -165,6 +166,7 @@ class ControlEventoAdministradorMedico
             echo $th->getMessage();
         }
     }
+
 
     public function ActualizarConsultorio()
     {
@@ -187,6 +189,7 @@ class ControlEventoAdministradorMedico
         }
     }
 
+
     //DATOS DE LAS ESPECIALIDADES
     public function Especialidades()
     {
@@ -208,6 +211,7 @@ class ControlEventoAdministradorMedico
         }
     }
 
+    
     //REGISTRAR NUEVA ESPECIALIDAD
     public function registrarEspecialidad()
     {

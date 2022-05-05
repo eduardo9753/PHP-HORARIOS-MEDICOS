@@ -63,7 +63,6 @@ class Carta
     }
 
 
-
     function setnum_gestion_carta($num_gestion_carta)
     {
         $this->num_gestion_carta = $num_gestion_carta;

@@ -110,7 +110,6 @@ class ControlEventoAdministrador
         }
     }
 
-
     //HORARIOS MEDICOS RECHAZADOS MES ACTUAL
     public function Rechazados()
     {

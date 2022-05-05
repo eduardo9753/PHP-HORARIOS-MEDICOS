@@ -121,7 +121,6 @@ class ModeloEventoAdministrador
         }
     }
 
-
     //DATA MEDICO POR ID
     public function medicoById($id_medico)
     {

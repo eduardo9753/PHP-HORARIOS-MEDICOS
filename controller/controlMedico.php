@@ -83,6 +83,7 @@ class ControlMedico
         }
     }
 
+    //REGISTRO DE ESPECIALIDAD
     public function registrarEspecialidadMedico()
     {
         try {

@@ -28,7 +28,6 @@ class ControlReportes
         $this->REPORTE = new ModeloReportes();
     }
 
-
     public function ExcelSop()
     {
         try {

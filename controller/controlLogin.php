@@ -7,7 +7,6 @@ include_once('model/modelLogin.php');
 include_once('data/usuario.php');
 
 
-
 class ControlLogin
 {
 

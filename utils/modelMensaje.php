@@ -20,7 +20,6 @@ class ModeloMensaje
   }
 
 
-
   /****************************************MESAGES DE ALERTAS PARA MOSTRARLE AL USUARIO***********************/
   public function success($message = "")
   {

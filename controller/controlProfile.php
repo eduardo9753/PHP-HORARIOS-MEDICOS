@@ -52,6 +52,7 @@ class ControlProfile
         }
     }
 
+    
     public function ProfileAdministrador()
     {
         try {

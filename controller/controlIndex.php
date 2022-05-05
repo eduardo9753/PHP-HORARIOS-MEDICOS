@@ -15,7 +15,6 @@ include_once('utils/modelSession.php');
 
 class ControlIndex
 {
-
     public $MODEL;
     public $MODELMEDICO;
     public $MSG;

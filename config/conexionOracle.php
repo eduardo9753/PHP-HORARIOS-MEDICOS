@@ -31,6 +31,7 @@ class ConexionOracle
         $this->CLAVE        = $this->configuracion['password'];
     }
 
+    
     public function ConectarOracle()
     {
         try {
