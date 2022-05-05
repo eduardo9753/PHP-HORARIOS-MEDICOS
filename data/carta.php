@@ -52,7 +52,6 @@ class Carta
         $this->id_usuario = '';
     }
 
-
     function setid($id)
     {
         $this->id = $id;

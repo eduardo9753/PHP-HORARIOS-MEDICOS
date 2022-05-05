@@ -1,5 +1,6 @@
 <?php
 
+
 include_once('config/conexionOracle.php');
 include_once('config/conexionMysql.php');
 

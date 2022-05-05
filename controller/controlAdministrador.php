@@ -1,7 +1,6 @@
 <?php
 
 //MODEL
-
 include_once('model/modelMedico.php');
 include_once('model/modelAdministrador.php');
 include_once('model/modelAseets.php');
