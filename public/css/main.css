@@ -1,0 +1,28 @@
+/*MOVIMIENTO LOGIN*/
+.mover-mensage {
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  animation: MoverDerecha 0.5s;
+}
+
+@keyframes MoverDerecha {
+  0% {
+    opacity: 0;
+    transform: translateX(-200px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+
+
+.title_sop{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 45px;
+  text-align: center;
+  color: #ffffff;
+  font-weight: bold;
+}
