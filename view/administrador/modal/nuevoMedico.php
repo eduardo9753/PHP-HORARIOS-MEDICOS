@@ -16,7 +16,7 @@
             <div class="modal-body">
                 <div class="card">
                     <div class="card-body">
-                        <form action="RegistrarMedico" id="frmAjaxRegistrarMedico" method="POST" >
+                        <form action="RegistrarMedico" id="frmAjaxRegistrarMedico" method="POST">
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="form-group">
@@ -31,7 +31,7 @@
                                         <input type="text" id="txt_codigo_medico" name="txt_codigo_medico" class="form-control" placeholder="Codigo">
                                     </div>
                                 </div>
-
+  
                                 <div class="col-md-12">
                                     <div class="form-group">
                                         <label for="">Especialidad</label>

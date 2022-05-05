@@ -38,8 +38,9 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 
 
-     //GUARDAR VIA AJAX  QUEJAS
-     $('#btn_queja').click(function () {
+
+    //GUARDAR VIA AJAX  QUEJAS
+    $('#btn_queja').click(function () {
         let datos = $('#frmAjaxQuejas').serialize();
         $.ajax({
             type: 'POST',

@@ -38,7 +38,7 @@
                                         <th scope="col">ESTADO ACTUAL</th>
                                         <th scope="col">ACCION</th>
                                     </tr>
-                                </thead>
+                                </thead> 
                                 <tbody>
                                     <?php foreach ($dataMedico as $data) : $i = $i + 1; ?>
                                         <tr>

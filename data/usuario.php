@@ -2,7 +2,6 @@
 
 class Usuario
 {
-
     private $id_user;
     private $nombreUser;
     private $contraUser;

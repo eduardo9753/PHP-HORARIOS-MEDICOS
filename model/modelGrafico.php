@@ -18,7 +18,7 @@ class ModeloGrafico
             throw $th;
         }
     }
-
+ 
     /*$sql = "SELECT * FROM tiempo_sop TSOP WHERE TSOP.ESTADO IN ('1','2','3')
     AND DATE_FORMAT(TSOP.FECHA_REAL,'%d') = '$diaActual' 
     ORDER BY TSOP.FECHA_CHEKLIST ASC";*/

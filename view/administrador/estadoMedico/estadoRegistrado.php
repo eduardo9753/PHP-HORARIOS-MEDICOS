@@ -25,7 +25,7 @@
             <!-- Content Row -->
             <div class="row">
                 <div class="col-md-12 mx-auto">
-                    <!--Nombre de mi calendario-->
+                    <!--Nombre de mi calendario-->  
                     <div class="card">
                         <div class="card-body">
                             <table id="datatable" class="table table-hover">

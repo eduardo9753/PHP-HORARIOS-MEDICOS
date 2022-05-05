@@ -11,7 +11,7 @@
         <!-- Topbar -->
         <?php include_once('view/template/setting.php'); ?>
         <!-- End of Topbar -->
-
+  
 
         <!-- Begin Page Content -->
         <div class="container-fluid">

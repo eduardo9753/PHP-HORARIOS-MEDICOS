@@ -31,7 +31,6 @@ class EspecialidadMedico
         return $this->id_especialidad;
     }
 
-
     function setid_medico($id_medico)
     {
         $this->id_medico = $id_medico;

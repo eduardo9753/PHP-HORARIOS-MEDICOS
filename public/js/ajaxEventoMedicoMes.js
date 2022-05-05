@@ -37,7 +37,6 @@ window.addEventListener('DOMContentLoaded', () => {
     
 
 
-
     //ACTULIZAR LOS DATOS VIA AJAX 
     $('#btn-actualizar-evento').click(function () {
         let datos = $('#frmAjaxActualizarEvento').serialize();

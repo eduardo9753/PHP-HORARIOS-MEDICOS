@@ -31,6 +31,7 @@ class Especialidad
         return $this->estado;
     }
 
+    
     function setnombre_especialidad($nombre_especialidad)
     {
         $this->nombre_especialidad = $nombre_especialidad;

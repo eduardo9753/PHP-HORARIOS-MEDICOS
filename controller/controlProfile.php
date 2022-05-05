@@ -14,7 +14,6 @@ include_once('data/usuario.php');
 include_once('utils/modelSession.php');
 
 
-
 class ControlProfile
 {
 

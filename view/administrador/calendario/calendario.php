@@ -66,7 +66,6 @@ include_once('view/template/head.php') ?>
                     <?php endif ?>
 
 
-
                     <!--Nombre de mi calendario-->
                     <div id='calendarAdministrador'></div>
                     <!-- Modal  EDITAR | ACTUALIZAR-->

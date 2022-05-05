@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', function() {
             right: 'dayGridMonth,timeGridWeek,listWeek'
           },
           
+          
           editable: true,    //para que aparacezca la mano en el cintillo
           selectable: true,
 

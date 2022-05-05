@@ -23,7 +23,6 @@ class Compania
     }
 
 
-
     function setnombre_compania($nombre_compania)
     {
         $this->nombre_compania = $nombre_compania;

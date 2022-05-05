@@ -1,6 +1,7 @@
 window.addEventListener('DOMContentLoaded', () => {
 
 
+    
     //LOGEO DE USUARIO VIA AJAX
     $('#btn-login').click(function () {
         let datos = $('#frmAjaxLogin').serialize();

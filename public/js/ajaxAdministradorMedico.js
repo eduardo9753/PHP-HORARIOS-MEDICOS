@@ -36,6 +36,7 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 
 
+    
     /*GUARDAR CONSULTORIO*/
     $('#btn-registrar-consultorio').click(function () {
         let datos = $('#frmAjaxRegistrarConsultorio').serialize();

@@ -1,7 +1,6 @@
 <?php include_once('view/template/head.php') ?>
 
 
-
 <!-- Content Wrapper -->
 <div id="content-wrapper" class="d-flex flex-column">
     <!-- Main Content -->

@@ -23,7 +23,7 @@
             <!-- Content Row -->
             <div class="row">
                 <!-- Page-header end -->
-                <div class="card mx-auto">
+                <div class="card mx-auto">  
                     <div class="card-body">
                         <form action="update" method="POST" enctype="multipart/form-data">
                             <div class="row">

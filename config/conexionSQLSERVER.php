@@ -21,7 +21,7 @@ class ConexionSqlServer
         'password' => 'labcore',
     ];
 
-    
+
     private $opt = [
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
         PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_NUM,
@@ -37,6 +37,7 @@ class ConexionSqlServer
         $this->USUARIO      = $this->configuracion['username'];
         $this->CLAVE        = $this->configuracion['password'];
     }
+    
 
     public function ConectarSqlServer()
     {

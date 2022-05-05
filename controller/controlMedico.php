@@ -58,6 +58,7 @@ class ControlMedico
         }
     }
 
+    
     //REGISTRAR ESPECIALIDAD
     public function listaEspecialidad()
     {

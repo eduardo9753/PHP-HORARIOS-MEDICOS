@@ -25,7 +25,7 @@
                                     <input type="text" name="txt_nombre_especialidad" id="txt_nombre_especialidad" value="<?php echo $data->nombre_especialidad ?>" class="form-control">
                                 </div>
                             </div>
-
+  
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="" class="color-paus">ESTADO</label>

@@ -62,7 +62,7 @@ class ModeloLogin
         }
     }
 
-
+    //
     public function logeoById(Usuario $usuario)
     {
         try {

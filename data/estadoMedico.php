@@ -21,7 +21,6 @@ class EstadoMedico
     }
 
 
-
     function setestado($estado)
     {
         $this->estado = $estado;

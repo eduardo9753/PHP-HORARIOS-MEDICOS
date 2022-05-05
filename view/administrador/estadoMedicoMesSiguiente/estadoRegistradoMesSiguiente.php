@@ -22,7 +22,7 @@
                 <?php //include_once('view/helpers/verCalendario.php'); 
                 ?>
             </div>
-            <!-- Content Row -->
+            <!-- Content Row -->  
             <div class="row">
                 <div class="col-md-12 mx-auto">
                     <!--Nombre de mi calendario-->

@@ -9,7 +9,6 @@ class ConexionOracle
     private $USUARIO;
     private $CLAVE;
 
-
     private $configuracion = [
         'drive'    => 'oci',
         'host'     => 'PRODUCCIONSN',

@@ -37,7 +37,7 @@ class ModeloAssets
             foreach ($intervalo as $valor) :
                 $tiempo[] = $valor;
             endforeach;
-
+  
             $dia = $tiempo[2]; //accede al dia : [0] -> 2
             $datos = array();
 

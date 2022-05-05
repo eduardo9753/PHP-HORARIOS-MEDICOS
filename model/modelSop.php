@@ -19,7 +19,7 @@ class ModeloSop
         }
     }
 
-
+   
     //DATA PACIENTE ESTADOS
     public function allPaciente()
     {

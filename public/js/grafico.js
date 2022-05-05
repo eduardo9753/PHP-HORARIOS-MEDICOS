@@ -45,7 +45,6 @@ window.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-
     //EVENTOS
     window.addEventListener('load', graficoCarta(txt_registros_mes,txt_aprobados_mes,txt_rechazados_mes,txt_count_total));
 });

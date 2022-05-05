@@ -20,7 +20,7 @@
                 <h1 class="h3 mb-0 text-gray-800"><?php echo $titulo ?></h1>
                 <!--helpers verCalendario-->
                 <?php include_once('view/administrador/modal/nuevaCompania.php'); ?>
-            </div>
+            </div>  
             <!-- Content Row -->
             <div class="row">
                 <div class="col-md-12 mx-auto">

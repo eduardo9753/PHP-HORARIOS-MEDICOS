@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
           selectable: true,
         
           
+          
           //MOSTRANDO EL MODAL PARA REGISTRAR UN EVENTO
           dateClick: function(info) {
             //alert('Clicked on: ' + info.dateStr);

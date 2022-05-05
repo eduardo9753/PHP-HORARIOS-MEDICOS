@@ -43,7 +43,7 @@ class ModeloAdministradorMedico
             echo $th->getMessage();
         }
     }
-
+ 
     //INSERT DATA NUEVO MEDICO
     public function insertMedico(Medico $medico)
     {

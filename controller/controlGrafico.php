@@ -28,7 +28,7 @@ class ControlGrafico
         $this->ASSET = new ModeloAssets();
     }
 
-
+    //
     public function Graficos()
     {
         try {

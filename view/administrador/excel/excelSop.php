@@ -25,7 +25,7 @@ $objPHPExcel->setActiveSheetIndex(0)
 ->setCellValue('I1', 'FECHA RECUPERACION')
 ->setCellValue('J1', 'FECHA SALIDA');
 
-
+  
 //Datos de la BD
 $i = 2; //imprime en 2 fila
 $a = 1;

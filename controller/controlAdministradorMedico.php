@@ -232,6 +232,7 @@ class ControlEventoAdministradorMedico
         }
     }
 
+    //
     public function ActualizarEspecialidad()
     {
         try {

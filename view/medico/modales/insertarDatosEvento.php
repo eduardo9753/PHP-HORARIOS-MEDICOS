@@ -26,7 +26,7 @@
                 <textarea class="form-control" name="txt_descripcion" id="txt_descripcion" cols="30" rows="5"></textarea>
               </div>
             </div>
-
+   
             <div class="col-md-12">
               <div class="form-group">
                 <label for="">Medico</label>

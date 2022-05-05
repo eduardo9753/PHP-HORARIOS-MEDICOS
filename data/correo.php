@@ -28,6 +28,7 @@ class Correo
         'auth'     => true,
     ];
 
+    
     //constructor
     public function __construct()
     {

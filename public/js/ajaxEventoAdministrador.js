@@ -1,7 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
 
 
-    
     /*APROBACION DE HORARIOS PERFIL ADMINISTRADOR*/
     $('#btn-aprobar-evento-medico-mes').click(function () {
         let datos = $('#frmAjaxAprobarEventoMedicoMes').serialize();

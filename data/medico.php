@@ -23,7 +23,6 @@ class Medico
         $this->foto = '';
     }
 
-
     function setid_medico($id_medico)
     {
         $this->id_medico = $id_medico;

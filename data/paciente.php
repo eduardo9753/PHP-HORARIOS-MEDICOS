@@ -2,7 +2,6 @@
 
 class Paciente
 {
-
     private $ID_NHC;
     private $NOMBRE_PAC;
     private $PATERNO;

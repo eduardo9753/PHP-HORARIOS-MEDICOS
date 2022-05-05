@@ -25,7 +25,7 @@
                                     <input type="text" name="txt_nombre_consultorio" id="txt_nombre_consultorio" value="<?php echo $data->nombre_consultorio ?>" class="form-control">
                                 </div>
                             </div>
-
+  
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="" class="color-paus">ESTADO</label>

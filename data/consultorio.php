@@ -32,7 +32,6 @@ class Consultorio
     }
 
 
-
     function setnombre_consultorio($nombre_consultorio)
     {
         $this->nombre_consultorio = $nombre_consultorio;

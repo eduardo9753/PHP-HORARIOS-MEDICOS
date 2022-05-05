@@ -6,4 +6,5 @@ window.addEventListener('DOMContentLoaded', () => {
         $('#datatableMedicoMesSiguiente').DataTable();
     } );
 
+    
 });

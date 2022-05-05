@@ -11,3 +11,4 @@ create table t_persona(
 			telefono varchar(50),
 			primary key(id)
 					);
+					

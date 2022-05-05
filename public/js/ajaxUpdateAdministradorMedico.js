@@ -1,5 +1,6 @@
 window.addEventListener('DOMContentLoaded', () => {
 
+    
      //CUANDO SE PRESIONE EN LA CLASE "edit-compania" SE DISPARA EL SIGUIENTE CODIGO
      $(document).on('click','.edit-compania',function(e){ 
         e.preventDefault(); 

@@ -145,7 +145,7 @@ class ModeloMedico
             echo $th->getMessage();
         }
     }
-
+ 
     //DATA DE UN MEDICO POR ID 
     public function allMedicosById($id_medico)
     {

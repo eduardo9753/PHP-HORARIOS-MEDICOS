@@ -31,7 +31,6 @@
                     <!--MODAL REGISTRAR EVENTO-->
                     <?php include_once('view/medico/modales/insertarDatosEvento.php'); ?>
                 </div>
-
             </div>
         </div>
         <!-- /.container-fluid -->

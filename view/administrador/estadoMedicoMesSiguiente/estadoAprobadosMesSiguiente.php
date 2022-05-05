@@ -39,7 +39,7 @@
                                         <th scope="col">VER</th>
                                     </tr>
                                 </thead>
-                                <tbody>
+                                <tbody>  
                                     <?php foreach ($dataMedicoMesSiguiente as $data) : $i = $i + 1; ?>
                                         <tr>
                                             <th scope="row"><?php echo $i ?></th>
