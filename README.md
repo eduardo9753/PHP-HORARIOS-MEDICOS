@@ -176,7 +176,7 @@ CREATE TABLE IF NOT EXISTS especialidad(
 
 
 #-------------------------------------------------------------------------------------------------
-#TABLA EVENTO DE LOS REGISTROS DE LOS HORARIOS MEDIOCOS
+#TABLA EVENTO DONDE SE REGISTRAN LOS HORARIOS
 #-------------------------------------------------------------------------------------------------
 CREATE TABLE IF NOT EXISTS evento(
   id                   INT PRIMARY KEY AUTO_INCREMENT,
