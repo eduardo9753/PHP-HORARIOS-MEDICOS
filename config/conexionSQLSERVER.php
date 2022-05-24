@@ -15,10 +15,10 @@ class ConexionSqlServer
     private $configuracion = [
         'drive'    => 'sqlsrv',
         'host'     => '192.1.0.69', //DESKTOP-QO3558E
-        'database' => 'labcore',
+        'database' => '',
         'port'     => '1433',
-        'username' => 'labcore',
-        'password' => 'labcore',
+        'username' => '',
+        'password' => '',
     ];
 
 
